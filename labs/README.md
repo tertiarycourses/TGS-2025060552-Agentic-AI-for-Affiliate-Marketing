@@ -1,22 +1,16 @@
-# Labs Index
+# Agentic AI for Affiliate Marketing Labs
 
-Complete the labs in order. Each lab includes planning, configuration, validation, and review tasks.
+Course code: TGS-2025060552
 
-| Lab | Title |
-| --- | --- |
-| [Lab 01](lab-01-devops-processes-boards-traceability.md) | DevOps Processes, Boards, and Traceability |
-| [Lab 02](lab-02-source-control-branching-pull-requests.md) | Source Control, Branching, and Pull Requests |
-| [Lab 03](lab-03-yaml-ci-pipelines-testing-artifacts.md) | YAML CI Pipelines, Testing, and Artifacts |
-| [Lab 04](lab-04-release-pipelines-deployment-strategies.md) | Release Pipelines and Deployment Strategies |
-| [Lab 05](lab-05-infrastructure-as-code-bicep-templates.md) | Infrastructure as Code with Bicep and Templates |
-| [Lab 06](lab-06-devsecops-secrets-compliance-scanning.md) | DevSecOps, Secrets, and Compliance Scanning |
-| [Lab 07](lab-07-instrumentation-monitoring-kql-feedback.md) | Instrumentation, Monitoring, KQL, and Feedback |
-| [Lab 08](lab-08-capstone-az400-end-to-end-devops.md) | AZ-400 Capstone: End-to-End DevOps Solution |
+Six connected, self-contained labs. Detailed procedures live here and in the Learner Guide; the PowerPoint remains concept-led.
 
-## Lab Rules
+- [Lab 1: Affiliate Offer Economics and Niche Fit](lab-01-affiliate-offer-economics-and-niche-fit/README.md) - LO1 | K1, K5, K6 (75 minutes)
+- [Lab 2: Trend Monitor and Product Update Skill](lab-02-trend-monitor-and-product-update-skill/README.md) - LO1 | A1, A5 (90 minutes)
+- [Lab 3: MCP-Assisted Partner Discovery and Due Diligence](lab-03-mcp-assisted-partner-discovery-and-due-diligence/README.md) - LO2 | K2, K3, K7 | A3 (120 minutes)
+- [Lab 4: Affiliate Portfolio and Communication Agent](lab-04-affiliate-portfolio-and-communication-agent/README.md) - LO2 | A2 (90 minutes)
+- [Lab 5: Brand-Aligned Multi-Channel Campaign Factory](lab-05-brand-aligned-multi-channel-campaign-factory/README.md) - LO3 | K4, K8, K9 (90 minutes)
+- [Lab 6: Attribution, Commission and Performance Reporting Agent](lab-06-attribution-commission-and-performance-reporting-agent/README.md) - LO3 | A4 (135 minutes)
 
-1. Do not commit real secrets.
-2. Use sandbox subscriptions where possible.
-3. Record pipeline run links or screenshots.
-4. Delete billable resources after labs.
-5. Document design tradeoffs, not only commands.
+## Safety boundary
+
+All supplied records are synthetic. The repository contains no credentials or answer keys. External actions require human approval.

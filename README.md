@@ -1,66 +1,132 @@
-# TGS-2024042605 - Designing and Implementing Microsoft DevOps Solutions (AZ-400)
+# Agentic AI for Affiliate Marketing
 
-> Course: Designing and Implementing Microsoft DevOps Solutions (AZ-400)  
-> Course Code: TGS-2024042605  
-> Register here: https://www.tertiarycourses.com.sg/wsq-designing-and-implementing-microsoft-devops-solutions-az-400.html
+Evidence-led affiliate research, partner coordination, compliant campaigns and accountable reporting with Claude Cowork, reusable Skills and MCP connectors.
 
-Hands-on AZ-400 labs for learners designing and implementing Microsoft DevOps solutions. The labs cover work tracking, collaboration, GitHub Flow, Azure Boards, source control strategy, YAML pipelines, package management, testing, deployment strategies, infrastructure as code, secrets, compliance scanning, monitoring, telemetry, KQL, and exam-ready DevOps scenarios.
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2025060552` |
+| Programme | WSQ |
+| Duration | 2 days, 16 hours, including 2 assessment hours |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-agentic-ai-for-affiliate-marketing.html) |
+| Funding | Up to 70% for eligible learners or employers. Eligibility, verification and terms apply. |
 
-## Courseware
+## About the Course
 
-| File | Description |
-| --- | --- |
-| [Learner Guide](LG-Designing-and-Implementing-Microsoft-DevOps-Solutions-AZ-400.md) | Detailed step-by-step guide for the full course. |
-| [Labs Index](labs/README.md) | Quick access to all hands-on labs. |
-| [Tools Reference](labs/tools.md) | Free tools, command references, YAML snippets, and KQL examples used in the labs. |
+This learner repository supports the two-day WSQ course **Agentic AI for Affiliate Marketing**. The connected labs build one controlled affiliate programme from offer selection and market evidence through partner due diligence, portfolio coordination, campaign compliance, attribution, commission reconciliation and management reporting.
 
-## How to Use
+By the end of the course, learners can:
 
-1. Open the learner guide first and review the account, repository, and pipeline safety checklist.
-2. Complete the labs in order because later labs reuse the repository, pipeline, IaC, secrets, and monitoring artifacts from earlier labs.
-3. Use Azure DevOps, GitHub, Azure free/training subscription resources, or trainer-provided sandbox access.
-4. Delete or disable billable cloud resources when the lab is complete.
-5. Record repository settings, pipeline runs, deployment evidence, monitoring queries, and security findings in your lab journal.
+- analyse affiliate trends and prepare evidence-led product updates;
+- research, assess and coordinate affiliate partners using transparent criteria;
+- construct a balanced portfolio aligned with organisational strategy;
+- create brand-aligned affiliate content with disclosure and policy gates; and
+- prepare progress, commission and activity reports from reconciled event facts.
 
-## Lab Catalogue
+## Topics Covered
 
-### Processes, Communication, and Source Control
+1. Affiliate research and campaign planning with Claude Cowork
+2. Affiliate portfolio and partner coordination with Skills and MCP
+3. Campaign reporting, compliance and optimisation with agentic AI
 
-| Lab | Title | Skills Practised |
-| --- | --- | --- |
-| [Lab 01](labs/lab-01-devops-processes-boards-traceability.md) | DevOps Processes, Boards, and Traceability | Azure Boards, GitHub Issues, work items, dashboards, traceability, metrics |
-| [Lab 02](labs/lab-02-source-control-branching-pull-requests.md) | Source Control, Branching, and Pull Requests | GitHub Flow, branch policies, PR reviews, tags, Git recovery |
+The affiliate foundations, niche and offer selection, channel strategy, review content, conversion tracking and common failure patterns are adapted from the two supplied course ebooks. Current product behaviour and connector mechanics follow the linked official product sources in the Learner Guide.
 
-### Pipelines, Delivery, and Infrastructure
+## Learning Architecture
 
-| Lab | Title | Skills Practised |
-| --- | --- | --- |
-| [Lab 03](labs/lab-03-yaml-ci-pipelines-testing-artifacts.md) | YAML CI Pipelines, Testing, and Artifacts | GitHub Actions/Azure Pipelines, triggers, tests, coverage, artifacts |
-| [Lab 04](labs/lab-04-release-pipelines-deployment-strategies.md) | Release Pipelines and Deployment Strategies | Environments, approvals, blue-green, canary, slots, rollback, feature flags |
-| [Lab 05](labs/lab-05-infrastructure-as-code-bicep-templates.md) | Infrastructure as Code with Bicep and Templates | Bicep, ARM concepts, validation, deployment, parameters, drift notes |
+```text
+Approved sources and product records
+                |
+                v
+    Claude Cowork and reusable Skills
+       | research | draft | explain
+                v
+ Read-only MCP connector boundaries
+                |
+                v
+ Deterministic validation and metrics
+                |
+                v
+     Named human review and approval
+                |
+                v
+ Partner update | campaign | report
+```
 
-### Security, Compliance, Monitoring, and Capstone
+The agent may research, classify, draft and explain within the approved workspace. A named person remains responsible for source acceptance, partner selection, claims, publishing, messages, spend, payout and optimisation decisions.
 
-| Lab | Title | Skills Practised |
-| --- | --- | --- |
-| [Lab 06](labs/lab-06-devsecops-secrets-compliance-scanning.md) | DevSecOps, Secrets, and Compliance Scanning | Key Vault, OIDC, service connections, Dependabot, CodeQL, secret scanning |
-| [Lab 07](labs/lab-07-instrumentation-monitoring-kql-feedback.md) | Instrumentation, Monitoring, KQL, and Feedback | Azure Monitor, Application Insights, alerts, pipeline health, KQL |
-| [Lab 08](labs/lab-08-capstone-az400-end-to-end-devops.md) | AZ-400 Capstone: End-to-End DevOps Solution | Integrated scenario, design decisions, pipeline evidence, exam review |
+## Hands-On Labs
 
-## References
+| Lab | Build | Main alignment |
+|---:|---|---|
+| 1 | Affiliate offer economics and niche-fit scorecard | LO1, K1, K5, K6 |
+| 2 | Trend-monitor and product-update Skill | LO1, A1, A5 |
+| 3 | MCP-assisted partner discovery and due diligence | LO2, A3, K2, K3, K7 |
+| 4 | Affiliate portfolio and communication agent | LO2, A2, K2, K3, K7 |
+| 5 | Brand-aligned multi-channel campaign factory | LO3, K4, K8, K9 |
+| 6 | Attribution, commission and performance reporting agent | LO3, A4, K4, K8, K9 |
 
-- Microsoft AZ-400 Study Guide: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400
-- Course registration: https://www.tertiarycourses.com.sg/wsq-designing-and-implementing-microsoft-devops-solutions-az-400.html
-- Azure DevOps documentation: https://learn.microsoft.com/azure/devops/
-- GitHub Actions documentation: https://docs.github.com/actions
+Each lab folder contains its own procedure, acceptance checklist, supplied synthetic data, deterministic validator and evidence template.
 
-## Free Tools Used
+## Getting Started
 
-- Azure DevOps
-- GitHub and GitHub Actions
-- Azure CLI
-- Visual Studio Code
-- Git
-- Bicep CLI
-- Azure Monitor and Application Insights
-- Kusto Query Language (KQL)
+Prerequisites:
+
+- Python 3.10 or later;
+- a text editor;
+- access to Claude Cowork for the agent exercises; and
+- optional approved read-only connectors for the MCP exercise.
+
+Clone the repository:
+
+```bash
+git clone https://github.com/tertiarycourses/TGS-2025060552-Agentic-AI-for-Affiliate-Marketing.git
+cd TGS-2025060552-Agentic-AI-for-Affiliate-Marketing
+```
+
+Open [labs/README.md](labs/README.md), then complete the labs in order. Every deterministic script uses only Python's standard library. For example:
+
+```bash
+python3 labs/lab-01-affiliate-offer-economics-and-niche-fit/offer_economics.py
+```
+
+## Repository Structure
+
+```text
+.
+├── README.md
+├── LG-Agentic AI for Affiliate Marketing.md
+└── labs
+    ├── README.md
+    ├── LAB-MANIFEST.json
+    ├── lab-01-affiliate-offer-economics-and-niche-fit
+    ├── lab-02-trend-monitor-and-product-update-skill
+    ├── lab-03-mcp-assisted-partner-discovery-and-due-diligence
+    ├── lab-04-affiliate-portfolio-and-communication-agent
+    ├── lab-05-brand-aligned-multi-channel-campaign-factory
+    └── lab-06-attribution-commission-and-performance-reporting-agent
+```
+
+## Safety and Evidence Rules
+
+- Use the supplied synthetic records; do not add customer or partner personal data.
+- Keep connector permissions read-only by default and record the scope and audit identifier.
+- Never commit credentials, tokens, private commercial terms or assessment answer keys.
+- Preserve source URLs, dates, versions and metric denominators in evidence.
+- Require a named human to approve every external release or irreversible action.
+
+## Public and Private Distribution
+
+This public repository contains learner-safe Markdown, synthetic data, deterministic lab scripts and templates. Trainer slides, editable Word documents, source ebooks, course-application records, assessment papers, answer keys, build tooling, QA renders and credentials are distributed through controlled course channels and are intentionally excluded from GitHub.
+
+## Course Information
+
+- Course code: **TGS-2025060552**
+- TSC: **Affiliate Marketing-2 RET-OTO-2001-1.1**
+- Duration: **2 days, 16 hours**, including two hours of assessment
+- Provider: **Tertiary Infotech Academy Pte Ltd**
+- Registration: [official course page](https://www.tertiarycourses.com.sg/wsq-agentic-ai-for-affiliate-marketing.html)
+
+## Support
+
+For course enquiries, visit [Tertiary Courses](https://www.tertiarycourses.com.sg/wsq-agentic-ai-for-affiliate-marketing.html) or email `enquiry@tertiaryinfotech.com`.
+
+© 2026 Tertiary Infotech Academy Pte Ltd. Course materials are provided for enrolled learners and authorised training use.
