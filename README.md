@@ -94,6 +94,11 @@ python3 labs/lab-01-affiliate-offer-economics-and-niche-fit/offer_economics.py
 .
 ├── README.md
 ├── LG-Agentic AI for Affiliate Marketing.md
+├── courseware
+│   ├── Agentic AI for Affiliate Marketing-v3.0.pptx
+│   ├── Agentic AI for Affiliate Marketing-v3.0.pdf
+│   ├── LP-Agentic AI for Affiliate Marketing.docx / .pdf
+│   └── LG-Agentic AI for Affiliate Marketing.docx / .pdf
 └── labs
     ├── README.md
     ├── LAB-MANIFEST.json
@@ -113,9 +118,20 @@ python3 labs/lab-01-affiliate-offer-economics-and-niche-fit/offer_economics.py
 - Preserve source URLs, dates, versions and metric denominators in evidence.
 - Require a named human to approve every external release or irreversible action.
 
+## Courseware Package
+
+Current release: **slides v3.0 (10 Oct 2026)**.
+
+| Item | Files |
+|---|---|
+| Slide deck | [PPTX](courseware/Agentic%20AI%20for%20Affiliate%20Marketing-v3.0.pptx), [PDF](courseware/Agentic%20AI%20for%20Affiliate%20Marketing-v3.0.pdf) |
+| Lesson Plan | [DOCX](courseware/LP-Agentic%20AI%20for%20Affiliate%20Marketing.docx), [PDF](courseware/LP-Agentic%20AI%20for%20Affiliate%20Marketing.pdf) |
+| Learner Guide | [DOCX](courseware/LG-Agentic%20AI%20for%20Affiliate%20Marketing.docx), [PDF](courseware/LG-Agentic%20AI%20for%20Affiliate%20Marketing.pdf), [Markdown](LG-Agentic%20AI%20for%20Affiliate%20Marketing.md) |
+| Labs | [labs/README.md](labs/README.md) |
+
 ## Public and Private Distribution
 
-This public repository contains learner-safe Markdown, synthetic data, deterministic lab scripts and templates. Trainer slides, editable Word documents, source ebooks, course-application records, assessment papers, answer keys, build tooling, QA renders and credentials are distributed through controlled course channels and are intentionally excluded from GitHub.
+This public repository contains the current slide deck, Lesson Plan, Learner Guide, synthetic data, deterministic lab scripts and templates. Source ebooks, course-application records, assessment papers, answer keys, superseded versions, build tooling, QA renders and credentials are distributed through controlled course channels and are intentionally excluded from GitHub.
 
 ## Course Information
 

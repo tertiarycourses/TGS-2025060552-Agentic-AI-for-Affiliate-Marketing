@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+.claude/
+.codex/
+assessment/
+reference/
+course_application/
+courseware/archive/
+courseware/qa/
+courseware/tmp/
+**/__pycache__/
+**/.venv/
+**/node_modules/
+~$*
